@@ -10,8 +10,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:numColumns="auto_fit"
+        android:columnWidth="200dp"
         android:verticalSpacing="@dimen/single_place_item_margin"
-        android:gravity="center"
+        android:gravity="center|top"
         tools:listitem="@layout/single_place_list_item"/>
 
 </LinearLayout>
