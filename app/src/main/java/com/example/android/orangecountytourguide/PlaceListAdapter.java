@@ -1,6 +1,7 @@
 package com.example.android.orangecountytourguide;
 
 import android.content.Context;
+import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,14 +13,15 @@ import java.util.ArrayList;
 
 public class PlaceListAdapter extends ArrayAdapter<Place> {
 
-    public PlaceListAdapter(Context context, ArrayList<Place> places) {
+    PlaceListAdapter(Context context, ArrayList<Place> places) {
         super(context, 0, places);
     }
 
+    @NonNull
     @Override
-    public View getView(int position, View convertView, ViewGroup parent) {
+    public View getView(int position, View convertView, @NonNull ViewGroup parent) {
         View listItemView = convertView;
-        if(listItemView == null) {
+        if (listItemView == null) {
             listItemView = LayoutInflater.from(getContext()).inflate(
                     R.layout.single_place_list_item, parent, false);
         }
@@ -27,6 +29,7 @@ public class PlaceListAdapter extends ArrayAdapter<Place> {
         Place currentPlace = getItem(position);
 
         ImageView placeImage = listItemView.findViewById(R.id.single_place_item_image);
+        assert currentPlace != null;
         placeImage.setImageResource(currentPlace.getPlaceImage());
 
         TextView placeTitle = listItemView.findViewById(R.id.single_place_item_title);

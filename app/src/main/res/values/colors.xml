@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- View colors -->
     <color name="colorPrimary">#4caf50</color>
     <color name="colorPrimaryDark">#087f23</color>
     <color name="colorPrimaryLight">#80e27e</color>
     <color name="colorAccent">#ff9800</color>
     <color name="colorMainBackground">#e1f5fe</color>
+    <color name="colorItemsBackground">#c1f5fe</color>
+
+    <!-- Text colors -->
+    <color name="colorTextTabs">#ffffff</color>
+    <color name="colorTextTitles">#000000</color>
+
 </resources>

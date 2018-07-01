@@ -8,8 +8,8 @@ public class Place {
     private String mPlacePhone;
     private int mPlaceImage;
 
-    public Place(String placeName, String placeAddress, String placeDescription,
-                 String placeWebsite, String placePhone, int placeImage){
+    Place(String placeName, String placeAddress, String placeDescription,
+          String placeWebsite, String placePhone, int placeImage) {
         mPlaceName = placeName;
         mPlaceAddress = placeAddress;
         mPlaceDescription = placeDescription;

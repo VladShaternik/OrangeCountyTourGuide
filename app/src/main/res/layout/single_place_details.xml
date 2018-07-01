@@ -13,7 +13,7 @@
         <ImageView
             android:id="@+id/details_photo"
             android:layout_width="match_parent"
-            android:layout_height="150dp"
+            android:layout_height="@dimen/single_place_item_width"
             android:scaleType="centerCrop"
             tools:src="@drawable/no_image" />
 
@@ -23,6 +23,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/margin_small"
             android:gravity="center"
+            android:textColor="@color/colorTextTitles"
+            android:textStyle="bold"
             android:textSize="@dimen/text_size_single_place_item_title"
             tools:text="Place Title" />
 

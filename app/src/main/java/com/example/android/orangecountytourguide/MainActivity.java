@@ -4,10 +4,6 @@ import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.widget.GridView;
-
-import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -21,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         SimpleFragmentPagerAdapter fragmentAdapter = new SimpleFragmentPagerAdapter(getSupportFragmentManager());
 
         viewPager.setAdapter(fragmentAdapter);
-
 
         TabLayout tabLayout = findViewById(R.id.tab_layout);
         tabLayout.setupWithViewPager(viewPager);

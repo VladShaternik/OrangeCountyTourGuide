@@ -8,7 +8,7 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     private String tabTitles[] = new String[]{"Beaches", "Food Places", "Theme Parks", "Wildlife Areas"};
 
-    public SimpleFragmentPagerAdapter(FragmentManager fm) {
+    SimpleFragmentPagerAdapter(FragmentManager fm) {
         super(fm);
     }
 
