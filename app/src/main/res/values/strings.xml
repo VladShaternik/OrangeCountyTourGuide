@@ -1,0 +1,404 @@
+<resources>
+    <string name="app_name">Orange County Tour Guide</string>
+
+    <!-- Beaches info -->
+    <string name="beach_name_1">Crystal Cove State Park</string>
+    <string name="beach_address_1">8471 Pacific Coast Highway, Laguna Beach, CA 92651</string>
+    <string name="beach_description_1">Finding a piece of the beach that is so clean and pristine…
+        Taking one back to the 40s is a delight. It is right in the middle of
+        California Pacific Highway crowds and yet it is a step back in time. The restaurant had
+        great food and an ambiance that matched that long ago quiet while listening to the waves
+        and watching the sea birds.</string>
+    <string name="beach_website_1">www.crystalcovestatepark.com</string>
+    <string name="beach_phone_1">949–494–3539</string>
+
+    <string name="beach_name_2">Newport Beach</string>
+    <string name="beach_address_2">Newport Beach, CA 92660–3267</string>
+    <string name="beach_description_2">There are only a few towns in the Gold Coast that reach
+        the level of Newport Beach. The beaches are the best. The restaurants are unbelievable
+        in style and taste. Some of the best shopping in California. Gelson&apos;s Market is the
+        best market in Orange County. You will not see more exotic cars anywhere. You have to go
+        through the harbor for a cruise and see the biggest display of private yachts and water
+        front homes in California. If you are here during Christmas a restaurant view of the parade
+        of lights is a must. This town is the Gem of the Gold Coast.</string>
+    <string name="beach_website_2">www.newportbeachca.gov</string>
+    <string name="beach_phone_2">949–644–3309</string>
+
+    <string name="beach_name_3">Victoria Beach</string>
+    <string name="beach_address_3">Victoria Drive, Laguna Beach, CA 92652</string>
+    <string name="beach_description_3">The only beach that isn&apos;t crowded in the City of
+        Laguna Beach. The local people will direct you to Aliso Beach further south if you have
+        trouble finding it. They don&apos;t want to give up their best kept secret.
+        Parking is almost non-existent, but available on PCH and across PCH off Nye&apos;s Pl.
+        There is even an underpass below PCH to get back to the south side of PCH.
+        Look for thick metal walkway rails leading down to the beach between houses.
+        It looks private, but it&apos;s a state beach, all are welcome! Best tip,
+        get there very early and enjoy the day!</string>
+    <string name="beach_website_3">www.lagunabeachcity.net/cityhall/marine/beaches/victoria_beach.htm</string>
+    <string name="beach_phone_3">Not available😞</string>
+
+    <string name="beach_name_4">Baby Beach</string>
+    <string name="beach_address_4">24300 Dana Point Harbor Drive, Dana Point, CA 92629–2914</string>
+    <string name="beach_description_4">This beach is perfect for young kids and toddlers.
+        It&apos;s a protected section of the marina (no need to worry about high waves or undertow)
+        with a roped off area for a max depth less than about 18-24&quot; in high tide.
+        Car parking is right beside the beach so not too far to lug beach items.
+        Restrooms adjacent to the beach and quite well maintained. There are Rentals right
+        at the beach for SUP boards, kayaks and more!</string>
+    <string name="beach_website_4">www.tripadvisor.com/Attraction_Review-g32279-d6373215-Reviews-Baby_Beach-Dana_Point_California.html</string>
+    <string name="beach_phone_4">Not available😞</string>
+
+    <string name="beach_name_5">Bolsa Chica State Beach</string>
+    <string name="beach_address_5">18331 E Pacific Coast Hwy, Huntington Beach, CA 92648</string>
+    <string name="beach_description_5">Bolsa Chica state beach has fun for all. Great beaches
+        with good facilities. Lifeguards on duty for your safety. Nice place to sit and stare
+        out at the beautiful ocean! Family friendly.</string>
+    <string name="beach_website_5">www.parks.ca.gov/?page_id=642</string>
+    <string name="beach_phone_5">714–846–3460</string>
+
+    <string name="beach_name_6">Huntington Dog Beach</string>
+    <string name="beach_address_6">E Pacific Coast Hwy and Goldenwest St, Huntington Beach, CA 92648</string>
+    <string name="beach_description_6">This is a great beach to take your dog. While your dog
+        runs around playing with friends you can enjoy a walk on a very beautiful beach.
+        There are free bags you can use to pick up after your dog. Easy access to the beach from
+        the very convenient partaking lot on Pacific Coast Highway.</string>
+    <string name="beach_website_6">www.tripadvisor.com/Attraction_Review-g32513-d578943-Reviews-or10-Huntington_Dog_Beach-Huntington_Beach_California.html</string>
+    <string name="beach_phone_6">Not available😞</string>
+
+    <string name="beach_name_7">Salt Creek Beach</string>
+    <string name="beach_address_7">Pacific Coast Hwy, Dana Point, CA 92629</string>
+    <string name="beach_description_7">Easy parking, convenient walk down the hill and there is
+        a beach shuttle for a buck if you do not feel like walking back up the hill with friendly
+        drivers who bring you to your car. There is a wonderful walkway and the beach is just
+        fabulous, a must visit!</string>
+    <string name="beach_website_7">www.tripadvisor.com/Attraction_Review-g32279-d4112527-Reviews-Salt_Creek_Beach-Dana_Point_California.html</string>
+    <string name="beach_phone_7">Not available😞</string>
+
+    <string name="beach_name_8">1,000 Steps Beach</string>
+    <string name="beach_address_8">31972 Pacific Coast Hwy, Laguna Beach, CA 92651</string>
+    <string name="beach_description_8">A fun and great workout if you&apos;re challenging
+        yourself for a climb up these stairs. Beautiful Laguna with its beach breeze and sun
+        will give you the motivation to complete the task. It&apos;s not 1000, but it will seem
+        like it once you&apos;ve gone up those stairs a few times. Many have come to challenge
+        themselves by going up these steps over 5 or 10 times. Give it a try and enjoy the
+        beach and waves and sunset afterwards.</string>
+    <string name="beach_website_8">www.tripadvisor.com/Attraction_Review-g32588-d561800-Reviews-1_000_Steps_Beach-Laguna_Beach_California.html</string>
+    <string name="beach_phone_8">Not available😞</string>
+
+    <string name="beach_name_9">Seal Beach</string>
+    <string name="beach_address_9">Seal Beach, CA 90740</string>
+    <string name="beach_description_9">SB is smaller than some of the surrounding beach towns.
+        But it&apos;s well worth a visit. The beach is nice and is perfect to watch the sun set.
+        There&apos;s a shopping area and plenty of restaurants. Paid parking is available or if
+        you&apos;re lucky, you may find free parking. Have fun!</string>
+    <string name="beach_website_9">www.sealbeachca.gov</string>
+    <string name="beach_phone_9">562–431–2527</string>
+
+    <string name="beach_name_10">Corona Del Mar State Beach</string>
+    <string name="beach_address_10">Corona del Mar State Beach, 3001 Ocean Blvd, Corona Del Mar, CA 92625</string>
+    <string name="beach_description_10">The beach itself is beautiful and there are ample
+        reviews already. But, look up to the cliff side and hike up. It is a beautiful view
+        from the cliff above either overseeing the beach or the architecture of the homes. Plenty
+        of street parking if one prefer to drive up but do show respects for the local residents
+        for they are the ones who provide us with this scenic street.</string>
+    <string name="beach_website_10">www.parks.ca.gov/?page_id=652</string>
+    <string name="beach_phone_10">949–644–3151</string>
+
+    <!-- Food places info -->
+    <string name="food_place_name_1">Portos Bakery &amp; Cafe</string>
+    <string name="food_place_address_1">7640 Beach Blvd, Buena Park, CA 90620</string>
+    <string name="food_place_description_1">More than a year on, the Buena Park location of
+        Porto&apos;s Bakery &amp; Cafe continues to thrive. This massive outlet for Cuban
+        baked goods and savory-side stuff is as slammed as it gets most days, with folks lining
+        up for potato balls and whatever else they can get their hands on.</string>
+    <string name="food_place_website_1">www.portosbakery.com</string>
+    <string name="food_place_phone_1">714–670–6427</string>
+
+    <string name="food_place_name_2">Pour Vida</string>
+    <string name="food_place_address_2">185 W. Center Street Promenade, Anaheim, CA, 92805</string>
+    <string name="food_place_description_2">Jimmy Martinez continues the Anaheim dining revolution
+        with Pour Vida Latin Flavor, his casual corner spot with small outdoor seating and big
+        flavors. It&apos;s a hit with the walking crowd that passes by out front, and has helped to
+        establish Martinez as one of Orange County&apos;s most recognizable chef names.</string>
+    <string name="food_place_website_2">www.pourvidalatinflavor.com</string>
+    <string name="food_place_phone_2">657–208–3889</string>
+
+    <string name="food_place_name_3">Garlic and Chives</string>
+    <string name="food_place_address_3">9892 Westminster Blvd #311, Garden Grove, CA 92844</string>
+    <string name="food_place_description_3">Garlic and Chives is a certifiable Little Saigon hit.
+        The strip mall space continues to draw legions of fans, eager to try the varied
+        Vietnamese fare, from seafood specialities to soups to noodles on down.</string>
+    <string name="food_place_website_3">www.garlicandchives.com</string>
+    <string name="food_place_phone_3">714–591–5196</string>
+
+    <string name="food_place_name_4">Burritos La Palma - Santa Ana</string>
+    <string name="food_place_address_4">410 N Bristol St, Santa Ana, CA 92703</string>
+    <string name="food_place_description_4">Burritos La Palma is a Mexican food institution
+        around the Southland, known for palm-sized wrapped tacos filled with slowly-braised meats.
+        Simplicity rules here, with diners lining up to catch three, four, or more of the hefty
+        mini-burritos at a clip for one seriously filling lunch or early dinner.</string>
+    <string name="food_place_website_4">burritoslapalma.net</string>
+    <string name="food_place_phone_4">657–266–0575</string>
+
+    <string name="food_place_name_5">Taco Maria</string>
+    <string name="food_place_address_5">3313 Hyland Ave, Costa Mesa, CA, 92626</string>
+    <string name="food_place_description_5">Carlos Salgado rightfully continues to earn accolades
+        for his upscale modern Mexican restaurant at the OC Mix Mart, which — besides being
+        delicious — actively seeks out pre-Hispanic ingredients and heirloom products to work
+        with. Taco Maria is, in many ways, still helping to change the way Orange County
+        thinks about Mexican food.</string>
+    <string name="food_place_website_5">tacomaria.com</string>
+    <string name="food_place_phone_5">714–538–8444</string>
+
+    <string name="food_place_name_6">Vaca</string>
+    <string name="food_place_address_6">695 Town Center Dr Suit 160, Costa Mesa, CA 92626</string>
+    <string name="food_place_description_6">Vaca remains a dining destination for Orange County,
+        thanks to chef Amar Santana&apos;s stint on Top Chef. The Spanish-inflected Costa Mesa
+        restaurant hits on all cylinders, from meat to seafood to fresh produce to one of the
+        best wine lists in the county.</string>
+    <string name="food_place_website_6">www.vacarestaurant.com</string>
+    <string name="food_place_phone_6">714–463–6060</string>
+
+    <string name="food_place_name_7">Mesa</string>
+    <string name="food_place_address_7">725 Baker St, Costa Mesa, CA 92626</string>
+    <string name="food_place_description_7">Costa Mesa dinner and lounge option Mesa is a special
+        kind of place, with its inviting interior and wide array of shareable items.
+        Everything is comforting and approachable but done with love, including the craft
+        beer and boutique wine list that attracts a weekend crowd.</string>
+    <string name="food_place_website_7">mesacostamesa.com</string>
+    <string name="food_place_phone_7">714–557–6700</string>
+
+    <string name="food_place_name_8">Blackmarket Bakery</string>
+    <string name="food_place_address_8">2937 Bristol St Ste D100A, Costa Mesa, CA 92626</string>
+    <string name="food_place_description_8">One of Orange County&apos;s finest bake shops, this
+        Costa Mesa pastry institution now serves Santa Ana and San Diego as well. Breakfast,
+        brunch, lunch, and dessert are all on the table here.</string>
+    <string name="food_place_website_8">blackmarketbakery.com</string>
+    <string name="food_place_phone_8">714–662–3095</string>
+
+    <string name="food_place_name_9">Oo Toro Sushi</string>
+    <string name="food_place_address_9">2222 Michelson Dr, Irvine, CA 92612</string>
+    <string name="food_place_description_9">Upscale Oo Toro Sushi is a hit for the spendy
+        faction of Irvine, working a menu of top notch fish and decadent add-ons like
+        Wagyu beef from a clean, slick space off Michelson Drive.</string>
+    <string name="food_place_website_9">ootorosushi.com</string>
+    <string name="food_place_phone_9">949–222–0688</string>
+
+    <string name="food_place_name_10">Bluegold &amp; LSXO</string>
+    <string name="food_place_address_10">21010 Pacific Coast Hwy, Huntington Beach, CA 92648</string>
+    <string name="food_place_description_10">Blackhouse Hospitality has pushed into Orange County
+        in a big way with LSXO, the glitzy newcomer to the large Pacific City project in
+        Huntington Beach. Hidden away inside sister restaurant Bluegold, LSXO is a 28-seat
+        high end option working a decidedly clever Southeast Asian menu.</string>
+    <string name="food_place_website_10">dinebluegold.com/lsxo</string>
+    <string name="food_place_phone_10">714–374–0083</string>
+
+    <!-- Theme Parks info -->
+    <string name="theme_park_name_1">Disney California Adventure Park</string>
+    <string name="theme_park_address_1">1313 Disneyland Drive, Anaheim, CA 92803–3232</string>
+    <string name="theme_park_description_1">Experience the thrill of the an old wooden
+        rollercoaster, but with modern twists, turns and technology, at "California Screamin."
+        Or enjoy a live performance by your favorite characters at Disney&apos;s newest theme park,
+        featuring a slew of exciting rides and family entertainment.</string>
+    <string name="theme_park_website_1">disneyland.disney.go.com/destinations/disney-california-adventure/?CMP=OKC-dlr_TA_173</string>
+    <string name="theme_park_phone_1">714–781–4565</string>
+
+    <string name="theme_park_name_2">Knott&apos;s Berry Farm</string>
+    <string name="theme_park_address_2">8039 Beach Blvd, Buena Park, CA 90620–3225</string>
+    <string name="theme_park_description_2">Once a working berry farm, this popular theme park
+        is now home to GhostRider, the world&apos;s best wooden roller coaster; Supreme Scream,
+        a ride where participants are hoisted up 30-stories and dropped down in three seconds;
+        the Xcelerator, rated the world&apos;s best launch coaster and Camp Snoopy, home to
+        the beloved Peanuts gang.</string>
+    <string name="theme_park_website_2">www.knotts.com</string>
+    <string name="theme_park_phone_2">714–220–5200</string>
+
+    <string name="theme_park_name_3">Adventure City</string>
+    <string name="theme_park_address_3">1238 S Beach Blvd, Anaheim, CA 92804</string>
+    <string name="theme_park_description_3">Adventure City is the little theme park that&apos;s
+        big on family fun! Admission for a family of four is less than a ticket to a big park
+        so you can enjoy all of our 17 rides, shows and attractions for one affordable price!
+        Experience thrills on one of our two roller coasters including our newest coaster,
+        Rewind Racers. North America&apos;s first forward and reversing family shuttle coaster.
+        Take a ride on the Adventure City Express Train for a scenic trip around the park or
+        get a little loony on the crazy bus. Meet some new animal friends in our petting farm.
+        Enjoy fun, interactive children&apos;s shows and so much more! Adventure City, Orange
+        County&apos;s premier destination for affordable family fun!</string>
+    <string name="theme_park_website_3">www.adventurecity.com</string>
+    <string name="theme_park_phone_3">714–236–9300</string>
+
+    <string name="theme_park_name_4">Boomers! Irvine</string>
+    <string name="theme_park_address_4">3405 Michelson Dr, Irvine, CA 92612–1605</string>
+    <string name="theme_park_description_4">When it comes to fun, Boomers! Is a blast! Whether
+        you&apos;re celebrating a birthday, having a party, doing corporate parties,
+        events and team building, or spending quality time with family and friends,
+        Boomers makes everything easier and hassle free. With attractions like Batting Cages,
+        Thrill Rides, Miniature Golf, Go Karts, Bumper Boats, Laser Tag, Rock Wall, Arcade,
+        King Arthur&apos;s Carnival and Lil&apos; Thunder Road, Boomers is the perfect place
+        for fun! It&apos;s a super-sized water play area that&apos;s five levels high with
+        slippery slides, wet tunnels, spray loops and a huge splash bucket. Make the fun
+        happen with spray cannons and the interactive aqua dome. This new water play park
+        includes over 1000 feet of water slides. And if you just want to watch the action,
+        kick back in a comfy lounge chair.</string>
+    <string name="theme_park_website_4">www.boomersparks.com/site/irvine</string>
+    <string name="theme_park_phone_4">949–559–8336</string>
+
+    <string name="theme_park_name_5">Universal Studios Hollywood</string>
+    <string name="theme_park_address_5">100 Universal City Plaza, Universal City, CA 91608</string>
+    <string name="theme_park_description_5">Find a full day of action-packed entertainment
+        all in one place: thrilling Theme Park rides and shows, a real working movie studio,
+        and Los Angeles&apos; best shops, restaurants and cinemas at CityWalk. Universal
+        Studios Hollywood is a unique experience that&apos;s fun for the whole family.</string>
+    <string name="theme_park_website_5">www.universalstudioshollywood.com</string>
+    <string name="theme_park_phone_5">800–864–8377</string>
+
+    <string name="theme_park_name_6">Great Wolf Lodge Southern California</string>
+    <string name="theme_park_address_6">12681 Harbor Blvd, Garden Grove CA 92840</string>
+    <string name="theme_park_description_6">The Great Wolf Lodge Southern California is
+        California&apos;s first indoor waterpark. This 603 room hotel incorporates a
+        121,000 square foot indoor water park, making it the largest Great Wolf Lodge
+        resort in existence. The resort gives visitors the option to stay in a themed suite,
+        allowing you to huddle in the wolf&apos;s den or cozy up in a cabin themed suite. This
+        hotel is perfect for a variety of family friendly activities. Families can be a part of
+        a lunch time line up of activities and play at the indoor waterpark. Entrance to the
+        indoor water park is included in hotel rates and is exclusively offered to hotel guest.
+        The waterpark has over 15 attractions and activities that are the epitome of aquatic fun.</string>
+    <string name="theme_park_website_6">www.greatwolf.com/southern-california</string>
+    <string name="theme_park_phone_6">714–530–9653</string>
+
+    <string name="theme_park_name_7">Orange County Great Park</string>
+    <string name="theme_park_address_7">Sand Canyon &amp; Marine Drive, Irvine CA 92869</string>
+    <string name="theme_park_description_7">Hundreds of thousands of visitors from all over Southern
+        California enjoy the Orange County Great Park&apos;s current array of recreational
+        and educational opportunities, including views from the iconic Great Park Balloon
+        that rises 400 feet in the air and provides a panoramic view of Orange County.
+        Other Great Park features include the Carousel, Farm + Food Lab, Kids Rock Playground,
+        Walkable Historical Timeline, Palm Court Arts Complex, North Lawn recreation area and
+        historic Hangar 244. The Great Park also hosts a variety of special events that provide
+        unique experiences for the entire family, including the Growing the Park Anniversary
+        Celebration, annual Pumpkin Harvest, Great Night! Family New Year&apos;s Eve,
+        Flights &amp; Sounds Summer Festival and the weekly Great Park Farmers Market.</string>
+    <string name="theme_park_website_7">www.ocgp.org</string>
+    <string name="theme_park_phone_7">949–724–6574</string>
+
+    <!-- Wildlife areas info -->
+    <string name="wildlife_area_name_1">Sherman Library &amp; Gardens</string>
+    <string name="wildlife_area_address_1">2647 Pacific Coast Hwy, Newport Beach, CA 92625</string>
+    <string name="wildlife_area_description_1">Horticultural retreat that features a museum of
+        living plants, walking paths, bubbling tile fountains and a library devoted to
+        the study of the Pacific Southwest.</string>
+    <string name="wildlife_area_website_1">www.slgardens.org</string>
+    <string name="wildlife_area_phone_1">949–673–2261</string>
+
+    <string name="wildlife_area_name_2">San Joaquin Wildlife Santuary</string>
+    <string name="wildlife_area_address_2">5 Riparian View, Irvine CA 92612, Irvine, CA 92612</string>
+    <string name="wildlife_area_description_2">Go before sunset and watch all the birds flying
+        in from the surrounding area. There are an unbelievable number of birds in this man-made
+        wetlands on the grounds of a water reclamation plant. The paths are flat (but dirt)
+        and easy to walk around the different pools. There are several parking lots along
+        Riparian Way and at sunset you will see photographers taking photos. There are surprises
+        at every turn. Birds fill the sky, Pelicans on a island, egrets, birds of prey, ducks,
+        American coots, Red Eye Western Grebe, lots of wading birds including black neck
+        stilts and white face ibis. You will see an amazing variety of birds and very few
+        people on a weekday around sunset. It&apos;s a hidden gem!</string>
+    <string name="wildlife_area_website_2">www.pourvidalatinflavor.com</string>
+    <string name="wildlife_area_phone_2">949–261–7963</string>
+
+    <string name="wildlife_area_name_3">Whiting Ranch Wilderness Park</string>
+    <string name="wildlife_area_address_3">26701 Portola Parkway, Foothill Ranch, CA 92610</string>
+    <string name="wildlife_area_description_3">Whiting Ranch Wilderness Park encompasses
+        approximately 2,500 acres of riparian and oak woodland canyons, rolling grassland
+        hills and steep slopes of coastal sage scrub and chaparral. The park is highlighted
+        by scenic rock formations, including the beautiful Red Rock Canyon. There are three
+        intermittent streams: Borrego, Serrano and Aliso Creek meandering through the park,
+        each hosting an abundance of wildlife. Remnants of the former cattle ranching
+        days can be seen throughout the park.</string>
+    <string name="wildlife_area_website_3">www.ocparks.com/parks/whiting</string>
+    <string name="wildlife_area_phone_3">949–923–2245 </string>
+
+    <string name="wildlife_area_name_4">Rancho Las Lomas Wildlife Foundation</string>
+    <string name="wildlife_area_address_4">19191 Lawrence Cyn, Silverado, CA 92676-9731</string>
+    <string name="wildlife_area_description_4">Rancho Las Lomas Wildlife Foundation is an open-air
+        museum that lives, breathes, squawks and growls. Our dedication is to educate and inspire
+        the community about the wonders of the natural world, while helping all realize every
+        creature of this planet deserves the right to live with compassion and respect.</string>
+    <string name="wildlife_area_website_4">ranchowildlife.org</string>
+    <string name="wildlife_area_phone_4">949–589–7900</string>
+
+    <string name="wildlife_area_name_5">Bolsa Chica Ecological Reserve</string>
+    <string name="wildlife_area_address_5">Entrance, Huntington Beach, CA 92647</string>
+    <string name="wildlife_area_description_5">Bolsa Chica is a small area just North of
+        Huntington Beach Dog Back on Pacific Coast Highway that provides visitors an
+        opportunity to observe, photograph and relax in a little oasis on the way to
+        Seal Beach in California. There is a small parking lot connecting to Pacific Coast Highway.
+        After exiting your vehicle, you notice a walkway to the North that is paved.
+        Directly ahead is a wooden sturdy bridge leading to the opposite bank.
+        Water in the pool has direct access to the Pacific Ocean. As the tide comes in,
+        the water level increases. Ocean birds congregate in the protected area. There
+        is no hunting or fishing within this area. There you will find an abundance of
+        photographers. The scope and variety of birds will keep you excited about what
+        you will see next. There are also sea animals that may enter and leave at will.
+        It is a nice place to unplug from the civilization for a while.</string>
+    <string name="wildlife_area_website_5">bolsachica.org</string>
+    <string name="wildlife_area_phone_5">714–846–1114</string>
+
+    <string name="wildlife_area_name_6">Thomas F. Riley Wilderness Park</string>
+    <string name="wildlife_area_address_6">30952 Oso Pkwy, Trabuco Canyon, CA 92679–5377</string>
+    <string name="wildlife_area_description_6">Riley park is a very nice park just to take a
+        break and unwind. There are a few trails that do have an encline that will get
+        your legs and heart working. Once on top the view is very much worth it!
+        The park is well maintained with an Interpretive Center that holds much
+        of the parks history.</string>
+    <string name="wildlife_area_website_6">ocparks.com/parks/thomas</string>
+    <string name="wildlife_area_phone_6">714–771–6731</string>
+
+    <string name="wildlife_area_name_7">Seal Beach National Wildlife Refuge</string>
+    <string name="wildlife_area_address_7">800 Seal Beach Blvd, Seal Beach, CA 90740–5607</string>
+    <string name="wildlife_area_description_7">The National Wildlife Refuge in Seal Beach offers
+        opportunities to see what is being done to protect our endangered species and wetlands,
+        conservation efforts to protect native habitat, and raise awareness about the human impact
+        on our environment. A tour of the Refuge is offered on the last Saturday of the month
+        (as noted in the Seal Beach Sun). The tour is interesting and eye-opening and well worth the
+        time. It is especially good for school groups, clubs, scouts, and community members who
+        want to learn about wildlife and environmental issues. When you travel on PCH, a section
+        of the highway between Seal Beach and Sunset Beach has been adopted by the Friends
+        of the Refuge—another indication of the concern the Refuge volunteers have for our
+        local environment. Participate and support the efforts of the
+        Seal Beach National Wildlife Refuge!</string>
+    <string name="wildlife_area_website_7">cnic.navy.mil</string>
+    <string name="wildlife_area_phone_7">562–598–1024</string>
+
+    <string name="wildlife_area_name_8">Pacific Marine Mammal Center</string>
+    <string name="wildlife_area_address_8">20612 Laguna Canyon Rd, Laguna Beach, CA 92651</string>
+    <string name="wildlife_area_description_8">The Pacific Marine Mammal Center rescues,
+        rehabilitates and releases marine mammals and inspires ocean stewardship through research,
+        education and collaboration. We are open to the public for visitors every day from
+        10am - 4pm. We are closed on Thanksgiving, Christmas Eve, Christmas Day,
+        and New Years Day. There is no charge for visiting us, but donations are appreciated!</string>
+    <string name="wildlife_area_website_8">www.pacificmmc.org</string>
+    <string name="wildlife_area_phone_8">949–494–3050</string>
+
+    <string name="wildlife_area_name_9">Peters Canyon Regional Park</string>
+    <string name="wildlife_area_address_9">8548 Canyon View Ave, Orange, CA 92869-5883</string>
+    <string name="wildlife_area_description_9">Peters Canyon Regional Park is a beautiful hiking
+        park. The trails are well developed with use. It is rare to find yourself alone on
+        the trails - they are much used and much loved. The hikes offer a variety of levels
+        so read the maps in the parking lot. The lake has been dry for a few years, but
+        when the lake is full, your hike will feel like you have found Heaven. The
+        parking lot is small. You can park in the neighborhoods around Peter&apos;s Canyon Park,
+        but be respectful of homeowners and their property. Pack a snack and hike to the highest
+        point in the park. You&apos;ll be thrilled with the find of a park bench and one
+        BEAUTIFUL view of OC. This is a hiking park you don&apos;t want to miss.</string>
+    <string name="wildlife_area_website_9">ocparks.com/parks/peters</string>
+    <string name="wildlife_area_phone_9">714–973–6611</string>
+
+    <string name="wildlife_area_name_10">Upper Newport Bay Nature Preserve</string>
+    <string name="wildlife_area_address_10">2301 University Dr, Newport Beach, CA 92660-3310</string>
+    <string name="wildlife_area_description_10">It&apos;s one of the few natural resources
+        left in the area. Enjoy the local flora and fauna and some nature in a place that has
+        been heavily developed. Local school kids know this well as the best place to get
+        your bug collection for the school science project.</string>
+    <string name="wildlife_area_website_10">www.ocparks.com/uppernewportbay</string>
+    <string name="wildlife_area_phone_10">949–923–2290</string>
+
+</resources>

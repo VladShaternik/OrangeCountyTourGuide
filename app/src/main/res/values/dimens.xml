@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sizes of views elements -->
+    <dimen name="single_place_item_width">150dp</dimen>
+    <dimen name="single_place_item_margin">20dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_big">24dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_single_place_item_title">18sp</dimen>
+    <dimen name="text_size_single_place_item_address">12sp</dimen>
+</resources>

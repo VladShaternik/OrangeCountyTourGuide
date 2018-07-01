@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/single_place_item_margin"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/single_place_item_image"
+        android:layout_width="@dimen/single_place_item_width"
+        android:layout_height="@dimen/single_place_item_width"
+        android:scaleType="centerCrop"
+        tools:src="@drawable/no_image" />
+
+    <TextView
+        android:id="@+id/single_place_item_title"
+        android:layout_width="@dimen/single_place_item_width"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:lines="2"
+        android:textSize="@dimen/text_size_single_place_item_title"
+        android:textStyle="bold"
+        tools:text="Place Name" />
+
+    <TextView
+        android:id="@+id/single_place_item_address"
+        android:layout_width="@dimen/single_place_item_width"
+        android:layout_height="wrap_content"
+        android:gravity="center|top"
+        android:lines="2"
+        android:textSize="@dimen/text_size_single_place_item_address"
+        tools:text="123 Some Street Suite 45, City Name, ST 67890" />
+
+</LinearLayout>
